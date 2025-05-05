@@ -1,2 +1,3 @@
-# HarveyClashGarbage
-不使用|区分IPV6
+# HarveyClashRules
+clash规则
+|区分IPV6节点
