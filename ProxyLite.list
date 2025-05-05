@@ -12,14 +12,14 @@ DOMAIN-SUFFIX,whois.domaintools.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,ddsrem.com
 DOMAIN-SUFFIX,googletagmanager.com
-# DOMAIN-SUFFIX,llgjc1.com
-
 
 # PT sites
 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,llgjc1
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
